@@ -39,19 +39,6 @@ This project is built using Python with libraries like `face_recognition`, `Open
 
 ---
 
-## 📁 Project Structure
-
-Face-Recognition-Attendance-System/
-├── Attendance/ # Attendance logs
-├── static/ # CSS, JS, and assets
-├── templates/ # HTML templates
-├── training_data/ # Folder for face training images
-├── app.py # Flask server file
-├── requirements.txt # List of Python dependencies
-└── README.md # Project documentation  
-
----
-
 ## ⚙️ Setup Instructions
 
 1. **Clone the repository:**
@@ -65,16 +52,12 @@ Face-Recognition-Attendance-System/
 3. **Run the Flask server:**
    python app.py
 
-🧠 How It Works
-Upload training images for each user.
-
-System encodes and stores their facial features.
-
-At runtime, webcam scans faces in real time.
-
-If a face matches a trained user, attendance is marked with a timestamp.
-
-Data is saved to a CSV for record-keeping.
+🧠 **How It Works**
+- Upload training images for each user.
+- System encodes and stores their facial features.
+- At runtime, webcam scans faces in real time.
+- If a face matches a trained user, attendance is marked with a timestamp.
+- Data is saved to a CSV for record-keeping.
 
 🙋‍♂️ **About the Developer**
 👨‍💻 Dhananjay Kothawale
