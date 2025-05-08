@@ -60,6 +60,6 @@ This project is built using Python with libraries like `face_recognition`, `Open
 - Data is saved to a CSV for record-keeping.
 
 🙋‍♂️ **About the Developer**
-👨‍💻 Dhananjay Kothawale
-📧 **Email:** dhananjaykothawale80@gmail.com
-📱 **Phone:** +91-7385836878
+👨‍💻 Dhananjay Kothawale <br>
+📧 **Email:** dhananjaykothawale80@gmail.com  <br>
+📱 **Phone:** +91-7385836878 
