@@ -59,7 +59,7 @@ This project is built using Python with libraries like `face_recognition`, `Open
 - If a face matches a trained user, attendance is marked with a timestamp.
 - Data is saved to a CSV for record-keeping.
 
-🙋‍♂️ **About the Developer**
+🙋‍♂️ **About the Developer**    <br>
 👨‍💻 Dhananjay Kothawale <br>
 📧 **Email:** dhananjaykothawale80@gmail.com  <br>
 📱 **Phone:** +91-7385836878 
